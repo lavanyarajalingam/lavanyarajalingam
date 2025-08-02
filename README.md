@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Lav</h1>
-<h3 align="center">AI Engineer | Innovating with Embedded Systems & Health Tech</h3>
+<h1 align="center">Hi there 👋, I'm Lavanya</h1>
+<h3 align="center">data Engineer | Innovating with Embedded Systems & Health Tech</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lavanyarajalingam&label=Profile%20views&color=0e75b6&style=flat" alt="lavanyarajalingam" />
